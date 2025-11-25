@@ -31,7 +31,7 @@ The user enters the consumed units and clicks the **Check** button. Based on the
 3. Enter units and calculate bill amount
 
 ### Sample Screenshot
-"https://github.com/user-attachments/assets/ebe4560c-d98a-4ac2-90a2-0888e5352c7b"
+<img width="907" height="722" alt="image" src="https://github.com/user-attachments/assets/1af6736b-ccf6-4711-98b8-9a78afd219f0" />
 
 ### Future Enhancements
 * GST and additional fixed-charge calculations
